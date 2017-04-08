@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "History.Dictionary", ".\History.Dictionary\History.Dictionary.csproj", "{07862668-0CE0-4AD2-B8D3-A69421AEC12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "History.Dictionary.Interfaces", ".\History.Dictionary.Interfaces\History.Dictionary.Interfaces.csproj", "{2DF2A253-3EC1-4E61-8C31-1C9E02DD316E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07862668-0CE0-4AD2-B8D3-A69421AEC12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07862668-0CE0-4AD2-B8D3-A69421AEC12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07862668-0CE0-4AD2-B8D3-A69421AEC12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07862668-0CE0-4AD2-B8D3-A69421AEC12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF2A253-3EC1-4E61-8C31-1C9E02DD316E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF2A253-3EC1-4E61-8C31-1C9E02DD316E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF2A253-3EC1-4E61-8C31-1C9E02DD316E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF2A253-3EC1-4E61-8C31-1C9E02DD316E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
